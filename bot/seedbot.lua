@@ -235,20 +235,11 @@ An advance Administration bot based on yagop/telegram-bot
 https://github.com/SEEDTEAM/TeleSeed
 
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@Rondoozle [Developer]
-@seyedan25 [Manager]
-
-Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
+@blackhat_admin02
+@blackhat_admin03
 
 Our channels
-@teleseedch [English]
-@iranseed [persian]
+@blackhatchannel
 ]],
     help_text_realm = [[
 Realm Commands:

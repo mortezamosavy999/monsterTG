@@ -229,10 +229,9 @@ function create_config( )
     sudo_users = {67255537,93213608,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
+    about_text = [[MonsterTG v2 - Open Source
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/SEEDTEAM/TeleSeed
 
 Admins
 @blackhat_admin02
